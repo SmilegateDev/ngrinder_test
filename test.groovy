@@ -66,7 +66,7 @@ class TestRunner {
          //grinder.logger.info(parts[1])
          //println(parts);
          tmpMap.putAt("title",parts[0])
-         tmpMap.putAt("content",parts[0])
+         tmpMap.putAt("content",parts[1])
          testData.add(tmpMap)
       }
 	
